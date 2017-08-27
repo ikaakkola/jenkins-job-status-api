@@ -1,4 +1,4 @@
-# jenkins-jobs-status-api
+# jenkins-job-status-api
 
 Jenkins job build status API
 
